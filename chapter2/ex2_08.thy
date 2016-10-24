@@ -1,4 +1,4 @@
-theory ex2_8 imports Main begin
+theory ex2_08 imports Main begin
 
 fun intersperse :: "'a \<Rightarrow> 'a list \<Rightarrow> 'a list" where
 "intersperse _ [] = []" |

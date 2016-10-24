@@ -1,4 +1,4 @@
-theory ex2_2 imports Main
+theory ex2_02 imports Main
 begin
 
 fun add :: "nat \<Rightarrow> nat \<Rightarrow> nat" where

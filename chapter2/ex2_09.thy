@@ -1,4 +1,4 @@
-theory ex2_9 imports Main begin
+theory ex2_09 imports Main begin
 
 fun itadd :: "nat \<Rightarrow> nat \<Rightarrow> nat" where
 "itadd 0 n = n" |

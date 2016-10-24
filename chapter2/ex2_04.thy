@@ -1,4 +1,4 @@
-theory ex2_4 imports Main begin
+theory ex2_04 imports Main begin
 
 fun snoc :: "'a list \<Rightarrow> 'a \<Rightarrow> 'a list" where
 "snoc [] y = [y]" |

@@ -1,4 +1,4 @@
-theory ex2_3 imports Main begin
+theory ex2_03 imports Main begin
 
 fun count :: "'a \<Rightarrow> 'a list \<Rightarrow> nat" where
 "count y Nil = 0" |

@@ -1,4 +1,4 @@
-theory ex2_7 imports Main begin
+theory ex2_07 imports Main begin
 
 datatype 'a tree2 = Tip 'a | Node "'a tree2" 'a "'a tree2"
 

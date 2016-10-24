@@ -1,4 +1,4 @@
-theory ex2_5 imports Main begin
+theory ex2_05 imports Main begin
 
 fun sum :: "nat \<Rightarrow> nat" where
 "sum 0 = 0" |
